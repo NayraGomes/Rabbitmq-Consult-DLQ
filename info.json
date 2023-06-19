@@ -1,0 +1,5 @@
+{
+	"queue": "fila_morta",
+	"exchange": "exchange_dle",
+	"exchange_retry": "exchange_reply"
+}
