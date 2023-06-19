@@ -1,9 +1,7 @@
-# Rabbitmq-Consult-DLQ
-Script to manage a RabbitMQ's Dead-Letter Queue via CLI
 
 # RabbitMQ DLQs
 
-Script para manuseio das filas de mensagens mortas (DLQ) CLI, onde outras filas (filas de origem) usam como destinos para mensagens que não podem ser processadas (consumidas) com êxito.
+Script para manuseio das filas de mensagens mortas (DLQ) via CLI, onde outras filas (filas de origem) usam como destinos para mensagens que não podem ser processadas (consumidas) com êxito.
 
 ## 🚀 Começando
 
@@ -92,8 +90,5 @@ Após exclusão ou reenviou, se houver uma nova mensagem na fila, está será ex
 
 * Conte a outras pessoas sobre este projeto 📢
 * Obrigado publicamente 🤓.
-* etc.
-
-
 ---
 
