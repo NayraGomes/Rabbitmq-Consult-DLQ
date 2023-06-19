@@ -50,11 +50,18 @@ Use o editor de txt da sua preferência e altere os campos queue, exchange e exc
 Salve o arquivo e abra o CLI.
 
 # Navegue para o diretório raiz do projeto
+```
+
 $ cd RabbitMQ-consult-DLQ
 
+```
 #Execute o script de consult-DLQ
 
+```
+
 $ node consult-DLQ
+
+```
 
 Após esse comando o script será inicializado.
 
