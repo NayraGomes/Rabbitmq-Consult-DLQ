@@ -77,9 +77,9 @@ Após exclusão ou reenviou, se houver uma nova mensagem na fila, está será ex
 ## 🛠️ Construído com
 
 
-* [JavaScript](https://www.javascript.com/) - Linguagem utilizada
-* [Node.JS](https://nodejs.org/en/download/ - Software para execução Javascript
-* [Npm](https://www.npmjs.com/ - Gerenciador de Dependências nodejs
+* [JavaScript] (https://www.javascript.com/) - Linguagem utilizada
+* [Node.JS] (https://nodejs.org/en/download/) - Software para execução Javascript
+* [Npm] (https://www.npmjs.com/) - Gerenciador de Dependências nodejs
 * [amqplib](https://amqp-node.github.io/amqplib/channel_api.html) - Client API do rabbitmq para nodejs
 
 
