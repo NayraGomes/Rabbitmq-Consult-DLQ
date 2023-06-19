@@ -13,7 +13,7 @@ var exchange_retry = jsonData.exchange_retry;
 
 function main (){
 
-    amqp.connect('<SERVER-ADDRESS', function(error0, connection) { //abrindo conexão
+    amqp.connect('<SERVER-ADDRESS>)', function(error0, connection) { //abrindo conexão
         if (error0) {
             throw error0;
         }
